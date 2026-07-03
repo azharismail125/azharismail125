@@ -11,7 +11,6 @@ This profile contains the steps I'm taking to build a structured summary of the 
 I'm always on the lookout for like minded individuals to share this journey with and I'm always open to feedback on my Github content.
 
 * 🌍  I'm based in Johannesburg, South Africa
-* ✉️  You can contact me at [azhar.ismail125@gmail.com](mailto:azhar.ismail125@gmail.com)
 * 🧠  I'm currently learning Compute foundations, Linux and more!
 * 💬  Fun fact: I went from teaching English in Thailand to chasing cloud certifications- a fairly winding career path indeed!
 
