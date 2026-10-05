@@ -18,7 +18,12 @@ Always open to connecting with like-minded learners and welcome feedback on anyt
 
 💬 Fun fact: I went from teaching English in Thailand to chasing cloud certifications — a winding path, but a good one
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eeaa7173-4ac4-4e34-8efb-7804af51d827" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### Certifications
+
+<p align="left">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eeaa7173-4ac4-4e34-8efb-7804af51d827" data-share-badge-host="https://www.credly.com"></div>
+</p>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align="left">
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="40" height="40" /></a>
