@@ -8,28 +8,22 @@ Resolution Specialist at Amazon
 
 I work in the South African marketplace and am on the path to obtaining my AWS Cloud Practitioner certification through the AWS re/Start Program with Praesignis.
 
-This profile documents that journey — hands-on labs, cheatsheets and projects — as a structured record of the program and a resource for anyone following a similar path.
+This profile documents that journey with hands-on labs, cheatsheets and projects, all as a structured record of the program and a resource for anyone following a similar path.
 
 Always open to connecting with like-minded learners and welcome feedback on anything here.
 
 🌍 Based in Johannesburg, South Africa
 
-🧠 Currently learning: compute foundations, Linux and more
+🧠 Currently learning: Cloud Practitioner and AI Practitioner courses through AWS
 
-💬 Fun fact: I went from teaching English in Thailand to chasing cloud certifications — a winding path, but a good one
+💬 Fun fact: I went from teaching English in Thailand to chasing cloud certifications which has been a winding path, but a good one nonetheless
 
-### Certifications
-
-<p align="left">
-<div data-iframe-width="300" data-iframe-height="540" data-share-badge-id="eeaa7173-4ac4-4e34-8efb-7804af51d827" data-share-badge-host="https://www.credly.com"></div>
-</p>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### Badges
 
 <p align="left">
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="80" height="80" /></a>
+<a href="https://www.credly.com/badges/eeaa7173-4ac4-4e34-8efb-7804af51d827/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob" alt="Credly Badge" title="Credly Badge" width="80" height="80" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="80" height="80" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="80" height="80" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="80" height="80" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="80" height="80" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" title="AWS" width="80" height="80" /></a>
 </p>
@@ -56,13 +50,6 @@ Always open to connecting with like-minded learners and welcome feedback on anyt
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="80" height="80" alt="YouTube" />
-    </picture>
-  </a>
-  <a href="https://www.tiktok.com/@azharismail125" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="80" height="80" alt="TikTok" />
     </picture>
   </a>
 </p>
