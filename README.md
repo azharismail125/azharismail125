@@ -22,7 +22,7 @@ Always open to connecting with like-minded learners and welcome feedback on anyt
 
 <p align="left">
 <a href="https://www.credly.com/badges/eeaa7173-4ac4-4e34-8efb-7804af51d827/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b5711a74f0e3d/Badge-Image-1.png" alt="AWS Cloud Practitioner" title="AWS Cloud Practitioner" /></a>
-<a href="https://www.credly.com/badges/ee132f72-8a4d-4803-a165-ee6eab07e196/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/1/fc1dd94d-c4ea-4d85-9c5a-5cd79dbeb5ea/Badge-Image-2.png" alt="Credly badge" title="Credly badge" /></a>
+<a href="https://www.credly.com/badges/ee132f72-8a4d-4803-a165-ee6eab07e196/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="Credly badge" title="Credly badge" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" /></a>
@@ -34,6 +34,7 @@ Always open to connecting with like-minded learners and welcome feedback on anyt
 <p align="left">
   <a href="https://www.github.com/azharismail125" target="_blank" rel="noreferrer">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="80" height="80" alt="GitHub" />
