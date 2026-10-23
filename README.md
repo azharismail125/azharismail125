@@ -6,7 +6,7 @@ My name is Mohammed Azhar Ismail
 Resolution Specialist at Amazon
 -------------------------------
 
-I work in the South African marketplace and am on the path to obtaining my AWS Cloud Practitioner certification through the AWS re/Start Program with Praesignis.
+I work in the South African marketplace and on the path to obtaining my AWS Cloud Practitioner certification through the AWS re/Start Program with Praesignis.
 
 This profile documents that journey with hands-on labs, cheatsheets and projects, all as a structured record of the program and a resource for anyone following a similar path.
 
@@ -14,19 +14,25 @@ Always open to connecting with like-minded learners and welcome feedback on anyt
 
 🌍 Based in Johannesburg, South Africa
 
-🧠 Currently learning: Cloud Practitioner and AI Practitioner courses through AWS
+🧠 Currently learning: Cloud Practitioner through AWS
+ 
+✅ Completed: AWS AI Practitioner Foundational
 
 💬 Fun fact: I went from teaching English in Thailand to chasing cloud certifications which has been a winding path, but a good one nonetheless
 
 ### Badges
 
 <p align="left">
-  <a href="https://www.credly.com/badges/eeaa7173-4ac4-4e34-8efb-7804af51d827/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b57d-0d87f4f5c6b4/amazon-web-services-cloud-practitioner-early-adopter" width="120" height="120" alt="AWS Cloud Practitioner badge" /></a>
-  <div data-iframe-width="120" data-iframe-height="270" data-share-badge-id="ee132f72-8a4d-4803-a165-ee6eab07e196" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="40" height="40" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" title="AWS" width="40" height="40" /></a>
+<a href="https://www.credly.com/badges/ee132f72-8a4d-4803-a165-ee6eab07e196" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS AI Practitioner" />
+</a>
+<a href="https://www.credly.com/badges/eeaa7173-4ac4-4e34-8efb-7804af51d827" target="_blank">
+  <img src="https://images.credly.com/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob" width="120" alt="AWS SimuLearn Cloud Practitioner" />
+</a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="120" height="120" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="120" height="120" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="120" height="120" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" title="AWS" width="120" height="120" /></a>
 </p>
 
 ### Socials
@@ -34,6 +40,7 @@ Always open to connecting with like-minded learners and welcome feedback on anyt
 <p align="left">
   <a href="https://www.github.com/azharismail125" target="_blank" rel="noreferrer">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="80" height="80" alt="GitHub" />
