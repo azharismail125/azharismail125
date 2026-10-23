@@ -21,12 +21,12 @@ Always open to connecting with like-minded learners and welcome feedback on anyt
 ### Badges
 
 <p align="left">
-  <a href="https://www.credly.com/badges/eeaa7173-4ac4-4e34-8efb-7804af51d827/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b5713f9319f2/Cloud%20Practitioner%20Badge.png" width="120" height="120" /></a>
-  <a href="https://www.credly.com/badges/ee132f72-8a4d-4803-a165-ee6eab07e196/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/amazon-web-services-aws-cloud-practitioner.png" width="120" height="120" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="48" height="48" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="48" height="48" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" title="AWS" width="48" height="48" /></a>
+  <a href="https://www.credly.com/badges/eeaa7173-4ac4-4e34-8efb-7804af51d827/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b57d-0d87f4f5c6b4/amazon-web-services-cloud-practitioner-early-adopter" width="120" height="120" alt="AWS Cloud Practitioner badge" /></a>
+  <div data-iframe-width="120" data-iframe-height="270" data-share-badge-id="ee132f72-8a4d-4803-a165-ee6eab07e196" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="40" height="40" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" title="AWS" width="40" height="40" /></a>
 </p>
 
 ### Socials
@@ -34,7 +34,6 @@ Always open to connecting with like-minded learners and welcome feedback on anyt
 <p align="left">
   <a href="https://www.github.com/azharismail125" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="80" height="80" alt="GitHub" />
